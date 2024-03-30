@@ -6,4 +6,7 @@
 - 📫 You can reach me at amantiwari.contact@gmail.com
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amantiwari-gt&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+
 
